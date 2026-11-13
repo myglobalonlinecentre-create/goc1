@@ -1,0 +1,11 @@
+{
+ "updated": "2026-11-13",
+ "schemes": [
+  {"id":"voter-ssr-2027","name":"Voter List naam jodna/sudhar (Form 6, 7, 8) – Bihar SSR","start":"2026-11-12","end":"2026-12-11","link":"https://voters.eci.gov.in/","note":"Naya naam Form 6, sudhar/shift Form 8"},
+  {"id":"pms-bcebc-reopen","name":"Post Matric Scholarship BC/EBC (portal dobara khula)","start":"2026-11-12","end":"2026-11-30","link":"https://pmsonline.bihar.gov.in/","note":"Registration + Finalize dono"},
+  {"id":"pms-scst-reopen","name":"Post Matric Scholarship SC/ST (portal dobara khula)","start":"2026-11-12","end":"2026-11-30","link":"https://scstpmsonline.bihar.gov.in/","note":""},
+  {"id":"nsp-2026-27","name":"NSP Scholarship (NMMSS, YASASVI 15 Nov; baaki zyadatar 30 Nov)","start":"2026-06-01","end":"2026-11-30","link":"https://scholarships.gov.in/","note":"NMMSS ki last date 15 Nov"},
+  {"id":"inspire-she-2026","name":"INSPIRE-SHE Scholarship (₹5,000/mahina)","start":"2026-11-07","end":"2026-12-07","link":"https://online-inspire.gov.in/","note":""},
+  {"id":"swayam-sahayata","name":"Mukhyamantri Swayam Sahayata Bhatta (₹1,000/mahina)","start":"","end":"","link":"https://www.7nishchay-yuvaupmission.bihar.gov.in/","note":"Hamesha khula"}
+ ]
+}
